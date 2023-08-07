@@ -37,7 +37,6 @@ jspm_packages
 .node_repl_history
 .DS_Store
 
-**/node_modules
 /server/node_modules
 /client/node_modules
 #Excluding build directory
